@@ -9,7 +9,7 @@
           id="symbolName"
           v-model="symbolName"
           required
-          placeholder="Enter symbol name" 
+          placeholder="Enter symbol name"   
         />
       </div>
       <div class="form-group">
