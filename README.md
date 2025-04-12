@@ -37,7 +37,7 @@ This is the frontend application for the **Stock Watcher** project. It provides 
 
 Start the development server:
 ```bash
-npm dev
+npm run dev
 ```
 
 The application will be available at `http://localhost:3000`.
