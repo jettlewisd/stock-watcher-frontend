@@ -11,7 +11,7 @@
           required
           placeholder="Enter symbol name"   
         />
-      </div>
+      </div> 
       <div class="form-group">
         <label for="tickerSymbol">Ticker Symbol:</label>
         <input
