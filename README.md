@@ -6,7 +6,7 @@ This is the frontend application for the **Stock Watcher** project. It provides 
 
 ## Technologies Used
 
-- **Framework**: Vue
+- **Framework**: Vue 
 - **Styling**: CSS
 - **State Management**: Vuex
 - **API Integration**: REST
